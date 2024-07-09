@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://images.app.goo.gl/4ivxVzkbGMDWLcxA8" alt="dharmi-dev" /> </p>
 
-- 🔭 I’m currently working on [NyayaSarthi](https://www.figma.com/file/84DRo0yEUfpYa2OgNY66M7/Untitled?type=design&mode=design&t=VMJtISLTjnv4ggPB-1)
+- 🔭 I’m currently working on [DreamCents]
 
 - 🌱 I’m currently learning **full stack web development and ui/ux**
 
 - 📫 How to reach me **dtanwar1947@gmail.com**
 
-- ⚡ Fun fact **I think I am cool**
+- ⚡ Fun fact **Complete your dreams otherwise, someone will hire you to complete their dreams**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
