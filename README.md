@@ -1,24 +1,58 @@
-<h1 align="center">Hi 👋, I'm Dharmesh Tanwar</h1>
-<h3 align="center">A passionate ui/ux designer and full stack developer from India</h3>
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=Dharmesh">
 
-<p align="left"> <img src="https://images.app.goo.gl/4ivxVzkbGMDWLcxA8" alt="dharmi-dev" /> </p>
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Dharmesh!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
 
-- 🔭 I’m currently working on [DreamCents]
-
-- 🌱 I’m currently learning **full stack web development and ui/ux**
-
-- 📫 How to reach me **dtanwar1947@gmail.com**
-
-- ⚡ Fun fact **Complete your dreams otherwise, someone will hire you to complete their dreams**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dharmesh-tanwar-668850299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmesh tanwar" height="30" width="40" /></a>
-<a href="https://instagram.com/dharmeshtanwar56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharmeshtanwar56" height="30" width="40" /></a>
+<br />
+<!-- about me -->
+<p align="center">
+  Hi, I'm Dharmesh Tanwar, Full Stack Developer💻, UI/UX Designer and App development enthusiast from India 🇮🇳.
+  <br />
+  <br />
+  🎓 currenyly i am 2nd year student CSE.
+  <br />
+  💻 I love to learn new technologies and frameworks.
+  <br />
+  🧑‍💼 Currently working to enhance my skillset and projects.
+  <br />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- social handles -->
+<div align="center">
+  <!-- gmail -->
+  <a href="mailto:dtanwar1947@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/dharmesh-tanwar-668850299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<hr />
+<!-- skills -->
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+      <!-- first row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Ctailwind%2Cfigma&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Credux%2Cfirebase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Credux%2Cfirebase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Credux%2Cfirebase&theme=light" alt="skills - 2" />
+        </picture>
+
+  </a>
+</p>
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmi-dev&show_icons=true&locale=en&layout=compact" alt="dharmi-dev" /></p>
 
